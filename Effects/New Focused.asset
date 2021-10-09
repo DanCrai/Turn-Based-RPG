@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 566965a5aa63339478703671b38e6058, type: 3}
+  m_Name: New Focused
+  m_EditorClassIdentifier: 
+  effectName: Focused
+  value: 100
+  baseDuration: 9
+  duration: 9
+  spriteColor: {r: 0.6007476, g: 0.9433962, b: 0.8842842, a: 1}
+  effectSprite: {fileID: 21300000, guid: 0d6fe719ca1a6304b86fd5a8d517fa48, type: 3}
+  positive: 1
+  affectedUnit: {fileID: 0}
+  particleSystem: {fileID: 0}
+  AiValue: 0
